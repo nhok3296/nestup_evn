@@ -1,5 +1,7 @@
 CÔNG CỤ THEO DÕI ĐIỆN NĂNG TIÊU THỤ TỪ EVN VIỆT NAM DÀNH CHO HOMEASSISTANT VIẾT BẰNG NGÔN NGỮ PYTHON
+
 I. MÔ TẢ:
+
 Từ việc sử dụng các phương thức có sẵn của module AIOHTTP thông qua những giao thức HTTP(S) cơ bản, công cụ cho phép theo dõi dữ liệu điện năng tiêu thụ từ EVN trực tiếp trên UI Home Assistant, hiện tại đã hỗ trợ cho tất cả vùng miền tại Việt Nam cùng với chi nhánh EVN tương ứng.
 a) Các tính năng cơ bản:
 - Thiết lập và theo dõi nhiều mã khách hàng cùng một lúc, trên cùng một máy chủ HA.
