@@ -1,0 +1,15 @@
+{
+  "domain": "nestup_evn",
+  "name": "EVN Data Fetcher",
+  "config_flow": true,
+  "documentation": "https://github.com/nhok3296/nestup_evn/",
+  "issue_tracker": "https://github.com/nhok3296/nestup_evn/issues",
+  "dependencies": [],
+  "codeowners": ["@nhok3296"],
+  "requirements": [
+     "voluptuous==0.13.1",
+     "python_dateutil"
+  ],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}
